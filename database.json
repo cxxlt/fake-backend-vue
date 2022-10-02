@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Estudar typescript",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Estudar VueJS",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "Estudar .NET",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
